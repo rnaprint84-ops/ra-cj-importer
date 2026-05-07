@@ -1,6 +1,7 @@
 {
   "name": "ra-cj-importer",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "build": "remix build",
     "dev": "remix dev",
